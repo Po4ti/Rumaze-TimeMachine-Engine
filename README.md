@@ -20,7 +20,7 @@ A custom GameMaker engine for platormers.
 
 # Current Engine State
 
-Keep in mind that this engine is currently in beta and you may encounter bugs. In you found a bug, want to give a feedback or suggest a feature you can always create an Issue or Pull request. I'm always open for suggestions!
+Keep in mind that this engine is currently in beta and you may encounter bugs. If you found a bug, want to give a feedback or suggest a feature you can always create an Issue or Pull request. I'm always open for suggestions!
 
 # Required GameMaker version
 Required GameMaker version: GameMaker Studio 2.3+
