@@ -1,0 +1,43 @@
+menu_continue,Continue,Продолжить
+menu_new_game,New Game,Новая Игра
+menu_settings,Settings,Настройки
+menu_exit,Exit,Выход
+settings_general,General,Основные
+settings_keyboard,Keyboard,Клавиатура
+settings_controller,Controller,Контроллер
+settings_music_volume,Music Volume,Громкость музыки
+settings_sound_volume,Sound Volume,Громкость звуков
+settings_window_mode,Window Mode,Режим окна
+settings_slide_mode,Slide Mode,Режим подката
+settings_text_language,English,Русский
+settings_language,Language,Язык
+settings_text_slide_1,Jump + Down,Прыжок + Вниз
+settings_text_slide_2,Jump + Direction + Down,Прыжок + Напр. + Вниз
+settings_text_slide_3,Jump + Slide,Прыжок + Подкат
+settings_text_windowed,Windowed x%d,Оконный x%d
+settings_text_fullscreen,Fullscreen,Полный экран
+settings_left_button,Left Button,Влево
+settings_right_button,Right Button,Вправо
+settings_up_button,Up Button,Вверх
+settings_down_button,Down Button,Вниз
+settings_jump_button,Jump Button,Прыжок
+settings_shoot_button,Shoot Button,Стрельба
+settings_restart_button,Restart Button,Рестарт
+settings_save_button,Save Button,Сохранение
+settings_action_button,Action Button,Действие
+settings_pause_button,Pause Button,Пауза
+settings_slide_button,Slide Button,Подкат
+settings_reset_controls,Reset Controls,Сбросить управление
+settings_controller_index,Controller,Контроллер
+settings_controller_disabled,Disabled,Выключен
+settings_text_controls_reset,Controls Reset,Сброшено
+settings_press_key,Press A Key,Нажмите Клавишу
+pause_exit_to_main_menu,Main Menu,Главное Меню
+menu_are_you_sure,Are You Sure?,Вы Уверены?
+yes,Yes,Да
+no,No,Нет
+press_to_save,[%b] To Save,[%b] Для Сохранения
+saved,Saved!,Сохранено
+secret_item_get,Secret Item Obtained!,Получен Секретный Предмет!
+open_chest,[%b] To Open,[%b] Чтобы Открыть
+a_to_enter,[%b] To Enter,[%b] Чтобы Войти
