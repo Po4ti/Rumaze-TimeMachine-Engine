@@ -24,8 +24,8 @@ Keep in mind that this engine is currently in beta and you may encounter bugs. I
 
 # Install
 There are two ways to download this engine:
-* You can clone repository
-* Download it directly by pressing "Code" at the right top corner and then "Download ZIP"
+* You can clone repository using Git or other version control software.
+* Download it directly by pressing "Code" at the right top corner and then "Download ZIP".
 
 # Required GameMaker version
 Required GameMaker version: GameMaker Studio 2.3+
