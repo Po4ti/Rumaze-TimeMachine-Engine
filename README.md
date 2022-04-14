@@ -22,5 +22,10 @@ A custom GameMaker engine for platormers.
 
 Keep in mind that this engine is currently in beta and you may encounter bugs. If you found a bug, want to give a feedback or suggest a feature you can always create an Issue or Pull request. I'm always open for suggestions!
 
+# Install
+There are two ways to download this engine:
+* You can clone repository
+* Download it directly by pressing "Code" at the right top corner and then "Download ZIP"
+
 # Required GameMaker version
 Required GameMaker version: GameMaker Studio 2.3+
