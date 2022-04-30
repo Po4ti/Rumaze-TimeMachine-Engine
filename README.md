@@ -20,6 +20,7 @@ A custom GameMaker engine for platormers.
 * Coyote time, jump buffering, jump corner correction (inspired by Celeste)
 * Momentum storage
 * Vines + new kid sprites for that
+* Testplayer data
 
 # Current Engine State
 
