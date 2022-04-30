@@ -17,6 +17,9 @@ A custom GameMaker engine for platormers.
 * Moving blocks
 * Platforms
 * New type of camera
+* Coyote time, jump buffering, jump corner correction (inspired by Celeste)
+* Momentum storage
+* Vines + new kid sprites for that
 
 # Current Engine State
 
